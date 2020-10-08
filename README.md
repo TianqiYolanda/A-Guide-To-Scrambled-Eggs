@@ -23,7 +23,7 @@
 - A bit of oil
   - Can be acquired from Grocery Store
 
-Now, let the cookery BEGINNNN
+Now, let the cookening BEGINNNN
 
 ### Instructions:
 
