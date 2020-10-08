@@ -23,7 +23,7 @@
 - A bit of oil
   - Can be acquired from Grocery Store
 
-Now, let the cookening BEGINNNN
+Now, let the cookening BEGIN!!!
 
 ### Instructions:
 
@@ -53,4 +53,4 @@ Give yourself a pat on the back while you enjoy your freshly made scrambled eggs
 
 ![](scrambledeggs.jpg)
 
-###### For a more detailed tutorial, please visit [this place](https://www.incredibleegg.org/recipes/basic-scrambled-eggs/). Their tutorial is, admittedly, just a liiiittle more wonderful than this one.
+###### For a more detailed tutorial, please visit [this website](https://www.incredibleegg.org/recipes/basic-scrambled-eggs/). Their tutorial is, admittedly, just a _little_ more wonderful than this one.
